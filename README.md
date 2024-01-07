@@ -50,6 +50,13 @@ Future Development:
 This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. For a machine with a much higher performance ceiling - see my
 [NANOEDM](https://github.com/alextreseder/nanoEDM)
 
+## Calculations
+Desmos calculators have been made for various applications - they are not necissarily complete
+
+[DESMOS - CAPSTAN EQUATION](https://www.desmos.com/calculator/trg4qsopa3)
+
+
+
 
 README template inspired heavily by:
 [CLOUGH42 ELS](https://github.com/clough42/electronic-leadscrew)
