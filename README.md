@@ -1,4 +1,4 @@
-# Alex Treseder's PicoEDM
+# PicoEDM
 
 PicoEDM is a minimalist but well performing multi-process EDM machine made from readily available components and household tools. The PicoEDM has a quick change end effector mount allowing the user to easily swap between WEDM, Sinker, and Fast Hole.
 
