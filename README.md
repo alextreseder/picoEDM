@@ -1,6 +1,6 @@
 # PicoEDM
 
-PicoEDM is a minimalist but well performing multi-process EDM machine made from readily available components and household tools. The PicoEDM has a quick change end effector mount allowing the user to easily swap between WEDM, Sinker, and Fast Hole.
+PicoEDM is a minimalist but well performing multi-process EDM machine made from readily available components and household tools. The PicoEDM has a quick change end effector mount allowing the user to easily swap between WEDM, DEDM, and Fast Hole.
 
 ![Machine Front](https://github.com/alextreseder/picoEDM/blob/master/renders/PicoEDM_Machine_Front.png)
 
