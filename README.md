@@ -51,5 +51,5 @@ This is not a spark generator or firmware project, although I do have a high end
 [NANOEDM](https://github.com/alextreseder/nanoEDM)
 
 
-README template inspired by:
+README template inspired heavily by:
 [CLOUGH42 ELS](https://github.com/clough42/electronic-leadscrew)
