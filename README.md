@@ -17,7 +17,7 @@ Verison 58 adds the following features:
 * Redesigned the water tank mounting scheme
 * Added worktable and its adjustment screws
 
-[DOWNLOAD HERE](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv58.step)
+[DOWNLOAD v58 HERE](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv58.step)
 
 ## Project Status
 alpha
