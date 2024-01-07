@@ -41,7 +41,7 @@ The current scope of the project:
 The recommended firmware and spark generator is supplied by
 [GEDM](https://github.com/G-EDM)
 
-## Possible Future Goals
+## Future Goals
 Future Development:
 * Ultra-compact spark generator
 * Self contained water filtration system that will live in a 5 gallon bucket
