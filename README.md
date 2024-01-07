@@ -38,8 +38,8 @@ The current scope of the project:
   * Sinker EDM end effector
   * Hole popper end effector
 
-The recommended firmware and spark genereator is supplied by GEDM
-[GEDM HERE](https://github.com/G-EDM)
+The recommended firmware and spark generator is supplied by
+[GEDM](https://github.com/G-EDM)
 
 ## Possible Future Goals
 Future Development:
@@ -47,8 +47,8 @@ Future Development:
 * Self contained water filtration system that will live in a 5 gallon bucket
 
 ## Non-Goals
-This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. For a machine with a much higher performance ceiling - see my NanoEDM
-[NANOEDM HERE](https://github.com/alextreseder/nanoEDM)
+This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. For a machine with a much higher performance ceiling - see my
+[NANOEDM](https://github.com/alextreseder/nanoEDM)
 
 
 README template inspired by:
