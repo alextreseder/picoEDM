@@ -44,7 +44,7 @@ The recommended firmware and spark generator is supplied by
 ## Future Goals
 Future Development:
 * Ultra-compact spark generator
-* Self contained water filtration system that will live in a 5 gallon bucket
+* Water filtration system contained in a 5 gallon bucket
 
 ## Non-Goals
 This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. For a machine with a much higher performance ceiling - see my
