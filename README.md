@@ -29,7 +29,7 @@ For documentation, please [**VISIT THE PROJECT WIKI**](https://github.com/alextr
 ## Concept
 The current scope of the project: 
 * Use components that are readily available worldwide (Amazon.com serving as benchmark)
-* 360mm by 500mm footprint, 170mmX by 110mmY travels
+* 360mm by 500mm footprint and 170mmX; 110mmY; 50mmZ travels
 * Trade comfort features for lower cost
 * Use a rotary damper as a capstan brake to tension the wire
 * Use a 3D printer filiment extruder as a wire pinch roller
