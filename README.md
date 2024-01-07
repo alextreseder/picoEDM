@@ -6,7 +6,8 @@ These are the files for the PicoEDM.  The goal is to design a minimalist but wel
 
 ## Disclaimer
 
-**EDM machines are dangerous**  Beware electric shock and pinch points. Be prepared to activate emergency stop. Do not leave machine unattended. You are responsible for your own safety.
+**EDM machines are dangerous**  
+Beware electric shock and pinch points. Be prepared to activate emergency stop. Do not leave machine unattended. You are responsible for your own safety.
 
 ## Latest Version
 
