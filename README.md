@@ -51,7 +51,7 @@ This is not a spark generator or firmware project, although I do have a high end
 [NANOEDM](https://github.com/alextreseder/nanoEDM)
 
 ## Calculations
-Desmos calculators have been made for various applications - they are not necissarily complete
+Desmos calculators have been made for various applications - they are not necessarily complete
 
 [DESMOS - CAPSTAN EQUATION](https://www.desmos.com/calculator/trg4qsopa3)
 
