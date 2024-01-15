@@ -66,7 +66,3 @@ Desmos calculators have been made for various applications - they are not necess
 
 [DESMOS - CAPSTAN EQUATION](https://www.desmos.com/calculator/trg4qsopa3)
 
-#### Thanks:
-
-README template inspired heavily by:
-[CLOUGH42 ELS](https://github.com/clough42/electronic-leadscrew)
