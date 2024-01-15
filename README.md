@@ -12,6 +12,13 @@ Beware electric shock and pinch points. Be prepared to activate emergency stop. 
 
 ## Latest Version
 
+Verison 59 adds the following features:
+* Redesigned wire end effector Z axis slider to eliminate the need for milling
+* Re-jointed the entire model from step files to clean things up and eliminate worthless dependancies
+* Fixed subtle issues with water tank bumper geometry
+
+[v59 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv59.step)
+
 Verison 58 adds the following features:
 * Redesigned wire end effector
 * Changed motion system components for ease of assembly and manufacture
@@ -23,8 +30,10 @@ Verison 58 adds the following features:
 ## Project Status
 alpha
 
-## Documentation
-For documentation, please [**VISIT THE PROJECT WIKI**](https://github.com/alextreseder/picoEDM/wiki).
+## In Progress
+
+* Finalize upper flush head design
+* Desgin spool prony brake and spool -> end effector wire routing components
 
 ## Concept
 The current scope of the project: 
