@@ -16,6 +16,7 @@ Verison 59 adds the following features:
 * Redesigned wire end effector Z axis slider to eliminate the need for milling
 * Re-jointed the entire model from step files to clean things up and eliminate worthless dependancies
 * Fixed subtle issues with water tank bumper geometry
+* .f3d file now available
 
 [v59 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv59.step)
 
