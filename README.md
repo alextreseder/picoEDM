@@ -33,7 +33,7 @@ alpha
 ## In Progress
 
 * Finalize upper flush head design
-* Desgin spool prony brake and spool -> end effector wire routing components
+* Design spool prony brake and spool -> end effector wire routing components
 * Simplified CAD model for weaker machines (no modeled threads and reduced internal bodies) available soon
 
 ## Concept
