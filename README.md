@@ -10,6 +10,9 @@ Pico's namesake is a nod to the tiny footprint of the machine. Its big brother i
 **EDM machines are dangerous**  
 Beware electric shock and pinch points. Be prepared to activate emergency stop. Do not leave machine unattended. You are responsible for your own safety.
 
+**Metric / Imperial**
+The machine is nearly completely metric with the exception of the thickness of the laser cut parts and tank bumpers. These are modeled as the imperial stuff that is available in America. The nearest metric equivalents should work in all cases, but user should carefully review the CAD model before building to confirm.
+
 ## Latest Version
 
 Verison 59 adds the following features:
@@ -17,6 +20,7 @@ Verison 59 adds the following features:
 * Re-jointed the entire model from step files to clean things up and eliminate worthless dependancies
 * Fixed subtle issues with water tank bumper geometry
 * .f3d file now available
+* Capstan bearings and shaft switched from 1/4" to M6 and 6x12x4 bearing
 
 [v59 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv59.step)
 
