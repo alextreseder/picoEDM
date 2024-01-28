@@ -14,6 +14,15 @@ Beware electric shock and pinch points. Be prepared to activate emergency stop. 
 The machine is nearly completely metric with the exception of the thickness of the laser cut parts and tank bumpers. These are modeled as the imperial stuff that is available in America. The nearest metric equivalents should work in all cases, but user should carefully review the CAD model before building to confirm.
 
 ## Latest Version
+Verison 62 adds the following features (huge changes):
+* Capstan brake changed from rotary damper brake to stepper motor brake via MKS Servo42D driver in torque mode
+* All heat set thread inserts removed in favor of plastic screws 
+* Redesigned wire end effector Z axis slider for better stability
+* Doubled up the coupling magents to hold the end effector on better
+* Again: Re-jointed the entire model from step files to clean things up and eliminate worthless dependancies
+* Changed workholding strategy to magnetic base plate in tank. Any fixtures you want can be printed and attached with magnets
+
+[v62 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv62.step)
 
 Verison 59 adds the following features:
 * Redesigned wire end effector Z axis slider to eliminate the need for milling
