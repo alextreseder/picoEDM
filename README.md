@@ -13,7 +13,18 @@ Beware electric shock and pinch points. Be prepared to activate emergency stop. 
 **Metric / Imperial**
 The machine is nearly completely metric with the exception of the thickness of the laser cut parts and tank bumpers. These are modeled as the imperial stuff that is available in America. The nearest metric equivalents should work in all cases, but user should carefully review the CAD model before building to confirm.
 
-## Latest Version
+## Latest Version - (last 3 version descriptions)
+Verison 64 adds the following features:
+* Stepper brake pulley changed to 16 tooth
+* Stepper brake mount geometry improved
+* Magentetic kinematic coupler changed to bolted kinematic coupler. Magnet will be revisited
+* Wire unspooling path components are  now modeled
+* Machine now includes all features needed to run comfortably
+* Project status updated to beta
+
+[v64 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDM_v64.step)
+
+
 Verison 62 adds the following features (huge changes):
 * Capstan brake changed from rotary damper brake to stepper motor brake via MKS Servo42D driver in torque mode
 * All heat set thread inserts removed in favor of plastic screws 
@@ -33,21 +44,12 @@ Verison 59 adds the following features:
 
 [v59 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv59.step)
 
-Verison 58 adds the following features:
-* Redesigned wire end effector
-* Changed motion system components for ease of assembly and manufacture
-* Redesigned the water tank mounting scheme
-* Added worktable and its adjustment screws
-
-[v58 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv58.step)
-
 ## Project Status
-alpha
+PROJECT NOW IN BETA!
 
 ## In Progress
 
-* Finalize upper flush head design
-* Design spool prony brake and spool -> end effector wire routing components
+* Implement flushing via new upper guide head geometry
 * Simplified CAD model for weaker machines (no modeled threads and reduced internal bodies) available soon
 
 ## Concept
