@@ -7,22 +7,6 @@ Pico's namesake is a nod to the tiny footprint of the machine. Its big brother i
 
 ![Machine Front](https://github.com/alextreseder/picoEDM/blob/master/renders/PicoEDM_Render_Front_64.png)
 
-## Disclaimer
-
-**EDM machines are dangerous**  
-Beware electric shock and pinch points. Be prepared to activate emergency stop. Do not leave machine unattended. You are responsible for your own safety.
-
-**Metric / Imperial**
-The machine is nearly completely metric with the exception of the thickness of the laser cut parts and tank bumpers. These are modeled as the imperial stuff that is available in America. The nearest metric equivalents should work in all cases, but user should carefully review the CAD model before building to confirm.
-
-## Project Status
-PROJECT NOW IN BETA!
-
-## In Progress
-
-* Implement flushing via new upper guide head geometry
-* Simplified CAD model for weaker machines (no modeled threads and reduced internal bodies) available soon
-
 ## Concept
 The current scope of the project: 
 * Use components that are readily available worldwide (Amazon.com serving as benchmark)
@@ -40,6 +24,22 @@ The current scope of the project:
 The recommended firmware and spark generator is supplied by
 [GEDM](https://github.com/G-EDM)
 
+## Project Status
+PROJECT NOW IN BETA!
+
+## Disclaimers
+
+**EDM machines are dangerous**  
+Beware electric shock and pinch points. Be prepared to activate emergency stop. Do not leave machine unattended. You are responsible for your own safety.
+
+**Metric / Imperial**
+The machine is nearly completely metric with the exception of the thickness of the laser cut parts and tank bumpers. These are modeled as the imperial stuff that is available in America. The nearest metric equivalents should work in all cases, but user should carefully review the CAD model before building to confirm.
+
+## Currently In Progress
+
+* Implement flushing via new upper guide head geometry
+* Simplified CAD model for weaker machines (no modeled threads and reduced internal bodies) available soon
+
 ## Future Goals
 Future Development:
 * Ultra-compact spark generator
@@ -49,7 +49,7 @@ Future Development:
 This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. For a machine with a much higher performance ceiling - see my
 [NANOEDM](https://github.com/alextreseder/nanoEDM)
 
-## Latest Version - (last 3 version descriptions)
+## Latest Version Notes
 Verison 65 adds the following features:
 * Stepper brake pulley changed to 16 tooth
 * Stepper brake mount geometry improved
