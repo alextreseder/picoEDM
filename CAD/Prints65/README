@@ -1,0 +1,11 @@
+# STATUS
+Current status: v58
+
+# Follow This Guide
+Part names are identical to step file. Colors are arbitrary. Elegoo ABS-like resin should be used because of its high performance in submerged application. PLA not recommended
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
