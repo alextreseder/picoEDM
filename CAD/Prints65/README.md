@@ -4,7 +4,7 @@
 
 # Follow This Guide
 
-* Stl file name = Step file name with verison number appended
+* .stl file name = .step file name + verison number
 * PETG or ABS recommended
 
 | Part Name     | Quantity | Layer Height |
