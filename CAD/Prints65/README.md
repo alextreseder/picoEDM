@@ -8,7 +8,7 @@
 * PETG or ABS recommended
 
 | Part Name     | Quantity | Layer Height |
-| ------------- |:---:| :-----------:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| ------------- |:---:| :----:|
+| col 3 is      |4|0.2|
+| col 2 is      |4|0.2|
+| zebra stripes |4|0.2|
