@@ -1,5 +1,7 @@
 # PicoEDM
 
+[**Join the Discord!!**](https://discord.gg/fNJQsGFzm4)
+
 PicoEDM is a minimalist but well performing multi-process EDM machine made from readily available components and household tools. The PicoEDM has a quick change end effector mount allowing the user to easily swap between WEDM, DEDM, and Fast Hole.
 Pico's namesake is a nod to the tiny footprint of the machine. Its big brother is Nano, and Micro was already taken:)
 
