@@ -2,7 +2,9 @@
 Current status: v58
 
 # Follow This Guide
-Part names are identical to step file. Colors are arbitrary. Elegoo ABS-like resin should be used because of its high performance in submerged application. PLA not recommended
+
+* Stl file name = Step file name with verison number appended
+* PETG or ABS recommended
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
