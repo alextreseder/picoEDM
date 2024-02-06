@@ -7,8 +7,8 @@
 * Stl file name = Step file name with verison number appended
 * PETG or ABS recommended
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Part Name     | Quantity | Layer Height |
+| ------------- |:---:| :-----------:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
