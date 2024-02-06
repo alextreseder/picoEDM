@@ -33,16 +33,12 @@ Verison 62 adds the following features (huge changes):
 * Again: Re-jointed the entire model from step files to clean things up and eliminate worthless dependancies
 * Changed workholding strategy to magnetic base plate in tank. Any fixtures you want can be printed and attached with magnets
 
-[v62 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv62.step)
-
 Verison 59 adds the following features:
 * Redesigned wire end effector Z axis slider to eliminate the need for milling
 * Re-jointed the entire model from step files to clean things up and eliminate worthless dependancies
 * Fixed subtle issues with water tank bumper geometry
 * .f3d file now available
 * Capstan bearings and shaft switched from 1/4" to M6 and 6x12x4 bearing
-
-[v59 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDMv59.step)
 
 ## Project Status
 PROJECT NOW IN BETA!
