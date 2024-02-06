@@ -1,17 +1,16 @@
 
-
 ## Fabricated Parts
 
-| Part                  | Source      | QTY | Cost @ 1 | Cost @ 1000 |
-|:----------------------|:-----------:|:---:|---------:|------------:|
-|Preload Nut Mount      | SendCutSend |2    |$40       |$1           |
-|Tank Floor Thick Plate | SendCutSend |1    |$40       |$1           |
-|Tank Floor Thin Plate  | SendCutSend |1    |$40       |$1           |
-|Tank Wall Long         | SendCutSend |2    |$40       |$1           |
-|Tank Wall Short        | SendCutSend |2    |$40       |$1           |
-|Wire Frame             | SendCutSend |1    |$40       |$1           |
-|X Axis Plate           | SendCutSend |2    |$40       |$1           |
-|2kg PETG For 3d Prints | Amazon      |1    |$40       |$30          |
+|Part                  |Source     |QTY  |Cost Each (@ 1 Kits)|Cost Each (@ 1000 Kits)|
+|----------------------|-----------|-----|--------------------|-----------------------|
+|Preload Nut Mount     |SendCutSend|2    |$2                  |$0.50                  |
+|Tank Floor Thick Plate|SendCutSend|1    |$66                 |$16.00                 |
+|Tank Floor Thin Plate |SendCutSend|1    |$28                 |$7                     |
+|Wire Frame            |SendCutSend|1    |$40                 |$12                    |
+|X Axis Plate          |SendCutSend|2    |$18                 |$6.00                  |
+|Tank Walls            |Home Laser |1    |$20.00              |$5.00                  |
+|                      |           |     |                    |                       |
+|                      |           |total|194                 |53                     |
 
 ## Sourced Parts
 
@@ -38,12 +37,12 @@
 |16T 5B GT2 Pulley        |Amazon     |2    |$3                  |$0.50                  |    |
 |5D 12L Dowel Pin         |Amazon     |1    |$1                  |$0.01                  |    |
 |1/2" Rubber Adhesive Feet|Amazon     |6    |$1                  |$0.01                  |    |
+|1Kg PETG                 |Amazon     |1    |$20                 |$15                    |    |
 |                         |           |     |                    |                       |    |
-|                         |           |total|327.7               |140.58                 |    |
-
+|                         |           |total|347.7               |155.58                 |    |
 
 ## Total
 
 |     | @ 1 | @ 1000 |
 |:----|:---:|:------:|
-|Total|$1   |$1      |
+|Total|$541 |$208    |
