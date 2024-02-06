@@ -14,7 +14,7 @@ Beware electric shock and pinch points. Be prepared to activate emergency stop. 
 The machine is nearly completely metric with the exception of the thickness of the laser cut parts and tank bumpers. These are modeled as the imperial stuff that is available in America. The nearest metric equivalents should work in all cases, but user should carefully review the CAD model before building to confirm.
 
 ## Latest Version - (last 3 version descriptions)
-Verison 64 adds the following features:
+Verison 65 adds the following features:
 * Stepper brake pulley changed to 16 tooth
 * Stepper brake mount geometry improved
 * Magentetic kinematic coupler changed to bolted kinematic coupler. Magnet will be revisited
@@ -22,7 +22,7 @@ Verison 64 adds the following features:
 * Machine now includes all features needed to run comfortably
 * Project status updated to beta
 
-[v64 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/PicoEDM_v64.step)
+[v65 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/CAD%20Versions/PicoEDMv65.step)
 
 
 Verison 62 adds the following features (huge changes):
