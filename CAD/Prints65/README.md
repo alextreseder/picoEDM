@@ -1,7 +1,6 @@
 # STATUS
 
-* UP TO DATE
-* Current status: v65
+* UP TO DATE v65
 
 # Follow This Guide
 
