@@ -22,7 +22,7 @@
 |608zz Ceramic            |Amazon     |8    |$2                  |$0.50                  |    |
 |608zz Steel              |Amazon     |8    |$1                  |$0.10                  |    |
 |3/4" AL Angle 48"        |ACE        |2    |$5                  |$2                     |    |
-|4040 T-Slot 500mm        |Amazon     |4    |$15                 |$8                     |    |
+|4040 V-Slot 500mm        |Amazon     |4    |$15                 |$8                     |    |
 |12D 350L Linear Shaft    |Amazon     |4    |$6                  |$1.50                  |    |
 |LM12UU                   |Amazon     |8    |$1.50               |$0.50                  |    |
 |Nema17 Tr8x2 300mm       |Amazon     |2    |$25                 |$10                    |    |
