@@ -25,7 +25,8 @@ The recommended firmware and spark generator is supplied by
 [GEDM](https://github.com/G-EDM)
 
 ## Project Status
-PROJECT NOW IN BETA!
+```diff
++ PROJECT NOW IN BETA!
 
 ## Disclaimers
 
