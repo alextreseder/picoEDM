@@ -13,6 +13,8 @@
 |                      |           |     |                    |                       |
 |                      |           |total|194                 |53                     |
 
+![Economy of Scale](https://github.com/alextreseder/picoEDM/blob/master/info/images/picoEconScale65.PNG)
+
 ## Sourced Parts
 
 |Part                     |Source     |QTY  |Cost Each (@ 1 Kits)|Cost Each (@ 1000 Kits)|Link|
