@@ -27,7 +27,7 @@ The recommended firmware and spark generator is supplied by
 ## Project Status
 ```diff
 + PROJECT NOW IN BETA!
-
+```
 ## Disclaimers
 
 **EDM machines are dangerous**  
