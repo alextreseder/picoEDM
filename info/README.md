@@ -2,7 +2,7 @@
 
 ## Fabricated Parts
 
-|Part                  |Source     |QTY  |Cost Each (@ 1 Kits)|Cost Each (@ 1000 Kits)|
+|Part                  |Source     |QTY  |Cost Each           |Cost Each (Bulk)       |
 |----------------------|-----------|-----|--------------------|-----------------------|
 |Preload Nut Mount     |SendCutSend|2    |$2                  |$0.50                  |
 |Tank Floor Thick Plate|SendCutSend|1    |$66                 |$16.00                 |
@@ -17,7 +17,7 @@
 
 ## Sourced Parts
 
-|Part                     |Source     |QTY  |Cost Each (@ 1 Kits)|Cost Each (@ 1000 Kits)|Link|
+|Part                     |Source     |QTY  |Cost Each           |Cost Each (Bulk)       |Link|
 |-------------------------|-----------|:---:|-------------------:|----------------------:|----|
 |608zz Ceramic            |Amazon     |8    |$2                  |$0.50                  |    |
 |608zz Steel              |Amazon     |8    |$1                  |$0.10                  |    |
@@ -46,6 +46,6 @@
 
 ## Total
 
-|     | @ 1 | @ 1000 |
+|     | 1   | Bulk   |
 |:----|:---:|:------:|
 |Total|$541 |$208    |
