@@ -11,7 +11,7 @@ Pico's namesake is a nod to the tiny footprint of the machine. Its big brother i
 
 ![Machine Real](https://github.com/alextreseder/picoEDM/blob/master/renders/IMG_9144.jpg)
 
-
+[Pico Makes First Cut!](https://youtube.com/shorts/JkDtk-GV0A8)
 
 ## Concept
 The current scope of the project: 
