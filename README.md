@@ -7,6 +7,8 @@ Pico's namesake is a nod to the tiny footprint of the machine. Its big brother i
 
 ![Machine Front](https://github.com/alextreseder/picoEDM/blob/master/renders/PicoEDM_Render_Front_64.png)
 
+![Machine Front Newer](https://github.com/alextreseder/picoEDM/blob/master/renders/picoRender3_22_24.PNG)
+
 ## Concept
 The current scope of the project: 
 * Use components that are readily available worldwide (Amazon.com serving as benchmark)
