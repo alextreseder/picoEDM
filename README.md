@@ -9,7 +9,7 @@ Pico's namesake is a nod to the tiny footprint of the machine. Its big brother i
 
 # NEW VERSION SOON
 
-![picov3](https://github.com/alextreseder/picoEDM/blob/master/renders/pico3render1.png)
+![picov3](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/pico3render1.png)
 
 
 
@@ -20,11 +20,11 @@ Pico's namesake is a nod to the tiny footprint of the machine. Its big brother i
 
 # Legacy
 
-![Machine Front](https://github.com/alextreseder/picoEDM/blob/master/renders/PicoEDM_Render_Front_64.png)
+![Machine Front](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/PicoEDM_Render_Front_64.png)
 
-![Machine Front Newer](https://github.com/alextreseder/picoEDM/blob/master/renders/picoRender3_22_24wide.PNG)
+![Machine Front Newer](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/picoRender3_22_24wide.PNG)
 
-![Machine Real](https://github.com/alextreseder/picoEDM/blob/master/renders/IMG_9144.jpg)
+![Machine Real](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/IMG_9144.jpg)
 
 
 
@@ -80,7 +80,7 @@ Verison 65 adds the following features:
 * Machine now includes all features needed to run comfortably
 * Project status updated to beta
 
-[v65 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/CAD/CAD%20Versions/PicoEDMv65.step)
+[v65 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/Legacy/CAD/CAD%20Versions/PicoEDMv65.step)
 
 
 Verison 62 adds the following features (huge changes):
