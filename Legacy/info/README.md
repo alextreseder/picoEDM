@@ -13,7 +13,7 @@
 |                      |           |     |                    |                       |
 |                      |           |total|194                 |53                     |
 
-![Economy of Scale](https://github.com/alextreseder/picoEDM/blob/master/info/images/picoEconScale65.PNG)
+![Economy of Scale](https://github.com/alextreseder/picoEDM/blob/master/Legacy/info/images/picoEconScale65.PNG)
 
 ## Sourced Parts
 
