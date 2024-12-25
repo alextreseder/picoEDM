@@ -104,3 +104,5 @@ Desmos calculators have been made for various applications - they are not necess
 
 [DESMOS - CAPSTAN EQUATION](https://www.desmos.com/calculator/trg4qsopa3)
 
+## Donations
+Bitcoin address: bc1qqp8etjvsmyyjqjm5unr0l4kj4qqpekz5jcclxv
