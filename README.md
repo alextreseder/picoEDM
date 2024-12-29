@@ -4,9 +4,6 @@
 
 [**Pico Makes First Cut!**](https://youtube.com/shorts/JkDtk-GV0A8)
 
-PicoEDM is a minimalist but well performing multi-process EDM machine made from readily available components and household tools. The PicoEDM has a quick change end effector mount allowing the user to easily swap between WEDM, SEDM, and Fast Hole.
-Pico's namesake is a nod to the tiny footprint of the machine. Its big brother is Nano - Micro was already taken:)
-
 # NEW VERSION SOON
 
 ![picov3](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/pico3render1.png)
@@ -31,7 +28,7 @@ Pico's namesake is a nod to the tiny footprint of the machine. Its big brother i
 ## Concept
 The current scope of the project: 
 * Use components that are readily available worldwide (Amazon.com serving as benchmark)
-* 360mm by 500mm footprint and 170mmX; 110mmY; 50mmZ travels
+* 360mm by 500mm footprint and 160mmX; 160mmY; 50mmZ travels
 * Trade comfort features for lower cost
 * Use a rotary damper as a capstan brake to tension the wire
 * Use a 3D printer filiment extruder as a wire pinch roller
