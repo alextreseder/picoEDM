@@ -1,45 +1,27 @@
 # PicoEDM
 
+Minimalist Wire EDM for Hobbyists & Education. Designed with high accuracy and user experience in mind.
+
 [**Join the Discord!!**](https://discord.gg/fNJQsGFzm4)
 
 [**Pico Makes First Cut!**](https://youtube.com/shorts/JkDtk-GV0A8)
 
-# NEW VERSION SOON
-
-![picov3](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/pico3render1.png)
-
-
-
-
-
-
-
-
-# Legacy
-
-![Machine Front](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/PicoEDM_Render_Front_64.png)
-
-![Machine Front Newer](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/picoRender3_22_24wide.PNG)
-
-![Machine Real](https://github.com/alextreseder/picoEDM/blob/master/Legacy/renders/IMG_9144.jpg)
-
-
+![Render Cover]()
 
 ## Concept
-The current scope of the project: 
+
 * Use components that are readily available worldwide (Amazon.com serving as benchmark)
 * 360mm by 500mm footprint and 160mmX; 160mmY; 50mmZ travels
-* Trade comfort features for lower cost
-* Use a rotary damper as a capstan brake to tension the wire
-* Use a 3D printer filiment extruder as a wire pinch roller
-* Use stainless on ALL submerged fasteners and structure components for machine longevity
+* Use a belted friction drive for wire handling
+* Use a integrated driver closed loop stepper in torque mode to tension the wire
+* Use inert materials for underwater assemblies
 * Implement adjustable worktable for precision
-* Use preloaded Tr8x2 nuts with integrated leadscrew steppers and LM12UU bearings for motion
-* Support the following modifications:
+* Use preloaded Tr8x2 nuts with integrated leadscrew steppers and mgn12 rails for motion
+* Support the following features via a quick swap kinematic mount:
   * Sinker EDM end effector
   * Hole popper end effector
 
-The recommended firmware and spark generator is supplied by
+The firmware and spark generator is a seperate project supplied by
 [GEDM](https://github.com/G-EDM)
 
 ## Project Status
@@ -52,24 +34,26 @@ The recommended firmware and spark generator is supplied by
 Beware electric shock and pinch points. Be prepared to activate emergency stop. Do not leave machine unattended. You are responsible for your own safety.
 
 **Metric / Imperial**
-The machine is nearly completely metric with the exception of the thickness of the laser cut parts and tank bumpers. These are modeled as the imperial stuff that is available in America. The nearest metric equivalents should work in all cases, but user should carefully review the CAD model before building to confirm.
+The machine is nearly completely metric with the exception of the thickness of the laser cut parts. The nearest metric equivalents should work in all cases, but user should carefully review the CAD model before building to confirm.
 
 ## Currently In Progress
 
-* Implement flushing via new upper guide head geometry
-* Simplified CAD model for weaker machines (no modeled threads and reduced internal bodies) available soon
+* Implement assited self threading
 
 ## Future Goals
 Future Development:
-* Ultra-compact spark generator
-* Water filtration system contained in a 5 gallon bucket
+* Ultra-compact spark generator based on FGPA control technology
 
 ## Non-Goals
-This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. For a machine with a much higher performance ceiling - see my
+This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. This is not a low precision machine. For a machine with a much higher performance ceiling - see my
 [NANOEDM](https://github.com/alextreseder/nanoEDM)
 
 ## Latest Version Notes
-Verison 65 adds the following features:
+Verison 6 (current) adds the following features: 
+* Integrated electronics case
+* Improved belt drive tensioning scheme
+
+Verison 65 (legacy) adds the following features:
 * Stepper brake pulley changed to 16 tooth
 * Stepper brake mount geometry improved
 * Magentetic kinematic coupler changed to bolted kinematic coupler. Magnet will be revisited
@@ -77,10 +61,7 @@ Verison 65 adds the following features:
 * Machine now includes all features needed to run comfortably
 * Project status updated to beta
 
-[v65 CAD DOWNLOAD](https://github.com/alextreseder/picoEDM/blob/master/Legacy/CAD/CAD%20Versions/PicoEDMv65.step)
-
-
-Verison 62 adds the following features (huge changes):
+Verison 62 (legacy) adds the following features (huge changes):
 * Capstan brake changed from rotary damper brake to stepper motor brake via MKS Servo42D driver in torque mode
 * All heat set thread inserts removed in favor of plastic screws 
 * Redesigned wire end effector Z axis slider for better stability
@@ -88,7 +69,7 @@ Verison 62 adds the following features (huge changes):
 * Again: Re-jointed the entire model from step files to clean things up and eliminate worthless dependancies
 * Changed workholding strategy to magnetic base plate in tank. Any fixtures you want can be printed and attached with magnets
 
-Verison 59 adds the following features:
+Verison 59 (legacy) adds the following features:
 * Redesigned wire end effector Z axis slider to eliminate the need for milling
 * Re-jointed the entire model from step files to clean things up and eliminate worthless dependancies
 * Fixed subtle issues with water tank bumper geometry
