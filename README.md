@@ -41,7 +41,7 @@ The machine is nearly completely metric with the exception of the thickness of t
 * Implement assited self threading
 
 ## Associated Projects
-[NANOEDM - A higher quality machine](https://github.com/alextreseder/nanoEDM)
+[NanoEDM - A higher quality machine](https://github.com/alextreseder/nanoEDM)
 
 [KegStand - A consumables free water management system for EDM](https://github.com/alextreseder/kegstand)
 
