@@ -6,7 +6,7 @@ Minimalist Wire EDM for Hobbyists & Education. Designed with high accuracy and u
 
 [**Pico Makes First Cut!**](https://youtube.com/shorts/JkDtk-GV0A8)
 
-![Render Cover]()
+![Render Cover](https://github.com/alextreseder/picoEDM/blob/master/Images/pico5_render_cover.png)
 
 ## Concept
 
