@@ -40,13 +40,17 @@ The machine is nearly completely metric with the exception of the thickness of t
 
 * Implement assited self threading
 
+## Associated Projects
+[NANOEDM - A higher quality machine](https://github.com/alextreseder/nanoEDM)
+
+[KegStand - A consumables free water management system for EDM](https://github.com/alextreseder/kegstand)
+
 ## Future Goals
 Future Development:
 * Ultra-compact spark generator based on FGPA control technology
 
 ## Non-Goals
-This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. This is not a low precision machine. For a machine with a much higher performance ceiling - see my
-[NANOEDM](https://github.com/alextreseder/nanoEDM)
+This is not a spark generator or firmware project, although I do have a high end spark generator under development. This is not an ultra precision machine. This is not a low precision machine.
 
 ## Latest Version Notes
 Verison 6 (current) adds the following features: 
