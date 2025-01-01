@@ -1,6 +1,6 @@
 # PicoEDM
 
-Minimalist Wire EDM for Hobbyists & Education. Designed with high accuracy and user experience in mind.
+Minimalist DIY Wire EDM for Hobbyists & Education. Designed with high accuracy and user experience in mind.
 
 [**Join the Discord!!**](https://discord.gg/fNJQsGFzm4)
 
